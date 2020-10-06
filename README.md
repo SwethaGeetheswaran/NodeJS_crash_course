@@ -1,6 +1,6 @@
-# NodeJS-Basics
+# NodeJS-Crash course
 
-Learning Node.js basics using Brad Traversy courses.
+Learning Node.js by taking Brad Traversy courses.
 
 NODE.JS
 
